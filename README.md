@@ -4,4 +4,4 @@ This contains R code and data for testing PLmixed using data from Lesa Hoffman's
 
 Eventually real data will be used.
 
-The project will be joing with M.L.
+The project will be joint with M.L.
