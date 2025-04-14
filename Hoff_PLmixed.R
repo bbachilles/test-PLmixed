@@ -1,5 +1,6 @@
 library(haven)
-Hoffman <- read_dta("D:/OneDrive/Methodological References/Multi-level Model References/Cross-classified Models/Hoffman_STATA_Chapter11b/STATA_Chapter11b/STATA_Chapter11b_analysis.dta")
+#Hoffman <- read_dta("D:/OneDrive/Methodological References/Multi-level Model References/Cross-classified Models/Hoffman_STATA_Chapter11b/STATA_Chapter11b/STATA_Chapter11b_analysis.dta")
+Hoffman <- read_dta("test-PLmixed/STATA_Chapter11b_analysis.dta")
 library(dplyr)
 glimpse(Hoffman)
 
